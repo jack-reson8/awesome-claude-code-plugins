@@ -394,6 +394,8 @@ Community-maintained plugin marketplaces you can add to access additional plugin
 | Marketplace | Description | Install |
 |-------------|-------------|---------|
 | [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips?tab=readme-ov-file#install-the-dx-plugin) | dx plugin: GitHub Actions analysis (`/gha`), conversation cloning (`/clone`, `/half-clone`), context handoffs (`/handoff`), Reddit fetching (`/reddit-fetch`) | `claude plugin marketplace add ykdojo/claude-code-tips` then `claude plugin install dx@ykdojo` |
+| [jack-reson8/pro-motion](https://github.com/jack-reson8/pro-motion) | Audio-first motion-graphics launch, brand and TVC films rendered in code and cut to the music: sonic-logo and Suno prompt planning, beat analysis, style frames, parallel rendering to MP4 | `claude plugin marketplace add jack-reson8/pro-motion` then `claude plugin install pro-motion@pro-motion` |
+| [jack-reson8/skill-skill](https://github.com/jack-reson8/skill-skill) | Write Claude skills that actually change the output, and lint them against the Agent Skills spec with a 0-100 health score and badge | `claude plugin marketplace add jack-reson8/skill-skill` then `claude plugin install skill-skill@skill-skill` |
 
 
 ### Skills & Frameworks
