@@ -398,6 +398,7 @@ Community-maintained plugin marketplaces you can add to access additional plugin
 | [jack-reson8/skill-skill](https://github.com/jack-reson8/skill-skill) | Write Claude skills that actually change the output, and lint them against the Agent Skills spec with a 0-100 health score and badge | `claude plugin marketplace add jack-reson8/skill-skill` then `claude plugin install skill-skill@skill-skill` |
 | [jack-reson8/renhua](https://github.com/jack-reson8/renhua) | renhua (人话): write Chinese posts and product copy in a real person's voice, strip AI tells and add humor | `claude plugin marketplace add jack-reson8/renhua` then `claude plugin install renhua@renhua` |
 | [jack-reson8/post-skill](https://github.com/jack-reson8/post-skill) | post: Xiaohongshu / X share-image sets that look native, with App Store poster layout, real screenshots, faithful app-UI mocks and charts | `claude plugin marketplace add jack-reson8/post-skill` then `claude plugin install post@post-skill` |
+| [jack-reson8/pro-launch](https://github.com/jack-reson8/pro-launch) | pro-launch: take an app or product from idea to launch with phase gates for naming and domain checks, references, style frames, UI loop, GTM and shipping | `claude plugin marketplace add jack-reson8/pro-launch` then `claude plugin install pro-launch@pro-launch` |
 
 
 ### Skills & Frameworks
